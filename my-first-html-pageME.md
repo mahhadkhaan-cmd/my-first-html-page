@@ -3,8 +3,8 @@
 <head>
     <title>My First HTML Page</title>
 </head>
-<body>
-    <h1>My Personal Profile</h1>
+<body style="background-color: lightblue;">
+    <h1 style="color: darkblue;">My Personal Profile</h1>
     <h2>i am a first year student at COMSATS university Islamabad.</h2>
     <p>Hello! My name is Mahad Khan. I am a CSC101 student. I am learning HTML in my computer science lab.</p>
     <h2>My Hobbies</h2>
@@ -22,7 +22,7 @@
     <h2>My Favorite Website</h2>
     <p>
         Visit my favorite website:
-        https://www.wikipedia.orgWikipedia</a>
+        <a>https://discord.com/</a>
     </p>
     <h2>My Picture</h2>
     https://placehold.co/200x200
@@ -34,7 +34,7 @@
         </tr>
         <tr>
             <td>Name</td>
-            <td>Ahmed Ali</td>
+            <td>Mahad Khan</td>
         </tr>
         <tr>
             <td>Course</td>
